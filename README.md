@@ -129,10 +129,10 @@ Resumen capítulo 2
 
 
   28. Determine lo siguiente:
-  (a) El número de microamperes en 1 miliampere: Existen 1000 µA
-  (b) El número de milivolts en 0.05 kilovolts: Existen 50000 mV
-  (c) El número de megohms en 0.02 kilohms: Existen 2*10^(-5)  MΩ
-  (d) El número de kilowatts en 155 miliwatts: Existen 1.5*10^(-4)  kW
+  -(a) El número de microamperes en 1 miliampere: Existen 1000 µA
+  -(b) El número de milivolts en 0.05 kilovolts: Existen 50000 mV
+  -(c) El número de megohms en 0.02 kilohms: Existen 2*10^(-5)  MΩ
+  -(d) El número de kilowatts en 155 miliwatts: Existen 1.5*10^(-4)  kW
   
   
   
