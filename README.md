@@ -52,63 +52,77 @@ Resumen capítulo 2
 
 
   6. Exprese cada uno de los números siguientes como un número decimal regular:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200657920-c29f173a-c6ca-4b12-b543-d4422a936643.png)
 
 
 
 
   8. Exprese cada número de los siguientes como un número decimal regular:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658009-d6c8e1c0-6efa-44bc-8966-61a04f85f6b3.png)
 
 
 
 
   10. Efectúe las siguientes sustracciones:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658114-a11cfb2f-87fb-48b6-b6b2-6d6b7e55dbab.png)
 
+
+
+
   12. Realice las siguientes divisiones: 
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658221-d99822f3-9a15-4364-b677-cfb955865c61.png)
   
   
   
   
   14. Exprese cada número en notación de ingeniería:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658324-ca685632-26f8-49f8-b894-8bb521cb2642.png)
 
 
 
 
   16. Exprese cada número en notación de ingeniería:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658405-5682c291-576d-4414-a06e-1854df16b499.png)
 
 
 
 
   18.  Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658512-5dd66d7f-9cf7-4a75-949d-b43d8779aefa.png)
 
 
 
 
   20.  Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658619-41f282f8-1ae0-4d0e-9771-2f424072b26e.png)
 
 
 
 
   22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658698-6f136005-e3c3-4417-8a69-7393bb56d28f.png)
 
 
 
 
   24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658798-3439181f-a609-4ddb-9e7b-791307cdba72.png)
 
 
 
 
   26. Exprese cada cantidad en notación de ingeniería:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200658868-3213b88f-ffda-4165-a5a6-4cedeb59fc9f.png)
 
 
@@ -124,6 +138,7 @@ Resumen capítulo 2
   
   
   30. Realice las siguientes operaciones:
+  
   ![image](https://user-images.githubusercontent.com/116655812/200659099-68f6c125-44e3-47ae-8e17-013463ecbffe.png)
 
 
