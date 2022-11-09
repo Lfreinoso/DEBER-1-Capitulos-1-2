@@ -181,6 +181,7 @@ Resumen capítulo 2
 ![image](https://user-images.githubusercontent.com/116655812/200704350-01a04b0f-cdca-45b7-a295-b839dd577b27.png)
 
 18. ¿En qué principio se basan los generadores eléctricos?
+
 Se basan en el principio de Inducción Electromagnética
 
 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 , ¿cuál es la corriente en la carga?
@@ -247,7 +248,6 @@ El amperimetro se debe colacar en serie a la fuente de voltaje para obtenr el va
 
 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
 
-![image](https://user-images.githubusercontent.com/116655812/200706253-c0dfe550-c75d-4a56-99f6-eff74e6cb6fe.png)
 
 Se debe colocar paralelo a la resistencia de la cual queremos saber su valor 
 
