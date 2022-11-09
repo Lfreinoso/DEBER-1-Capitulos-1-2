@@ -254,6 +254,7 @@ Se debe colocar paralelo a la resistencia de la cual queremos saber su valor
 
 
 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
 Esta midiendo una resistencia de 10 ohms
 
 
