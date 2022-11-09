@@ -147,6 +147,122 @@ Resumen capítulo 2
 
 - CAPÍTULO 2 (EJERCICIOS PARES)
 
+
+2. ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
+
+![image](https://user-images.githubusercontent.com/116655812/200698687-2c4b5c0b-9abc-41d7-a812-512162a949fb.png)
+
+4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+
+![image](https://user-images.githubusercontent.com/116655812/200698883-1da92d9c-19ea-45a2-8c7b-268cc05891be.png)
+
+6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+![image](https://user-images.githubusercontent.com/116655812/200698958-db1bf827-d103-42d4-a6ec-c966bc5a72b6.png)
+
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2?5 C por un circuito?
+
+![image](https://user-images.githubusercontent.com/116655812/200699012-6204f1d8-b84e-4f75-9fa1-554cccbe6940.png)
+
+10. Determine la corriente en cada uno de los siguientes casos:
+
+![image](https://user-images.githubusercontent.com/116655812/200699490-906273f7-a821-4b83-b726-6ffbd15da570.png)
+
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+![image](https://user-images.githubusercontent.com/116655812/200704013-02769297-c6f8-42c3-b920-ce4ff177a6d6.png)
+
+14. 5.74  1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+![image](https://user-images.githubusercontent.com/116655812/200704148-57fe0d9c-6757-4298-b15d-e9a234a1f2e2.png)
+
+16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+
+![image](https://user-images.githubusercontent.com/116655812/200704350-01a04b0f-cdca-45b7-a295-b839dd577b27.png)
+
+18. ¿En qué principio se basan los generadores eléctricos?
+Se basan en el principio de Inducción Electromagnética
+
+20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 , ¿cuál es la corriente en la carga?
+
+![image](https://user-images.githubusercontent.com/116655812/200704495-812f22f5-6139-4557-b436-4f7638264315.png)
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+![image](https://user-images.githubusercontent.com/116655812/200704821-86c6377f-37ec-495c-a683-d9e743cd22a0.png)
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+![image](https://user-images.githubusercontent.com/116655812/200705208-291dab6c-0c39-4a7f-93ad-6bd796f79444.png)
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas: 
+
+![image](https://user-images.githubusercontent.com/116655812/200705423-edfbe064-fab7-417e-b0cf-6497db6c143f.png)
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+La resistencia entre cada terminal es de 50 [Ω]
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+
+![image](https://user-images.githubusercontent.com/116655812/200705601-91674ea1-a8ee-4d03-919a-9e1d7ece2975.png)
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+
+
+![image](https://user-images.githubusercontent.com/116655812/200724276-df9cf598-00cd-45ac-b10f-6134203faafd.png)
+
+
+
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+![image](https://user-images.githubusercontent.com/116655812/200705728-0604b3cb-ffad-454e-915d-7f6cecc775b6.png)
+
+A través del resistor numero 5 R5
+
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+
+![image](https://user-images.githubusercontent.com/116655812/200705851-078aeae4-71aa-4a9a-8f8f-a57a8fff6824.png)
+
+
+![image](https://user-images.githubusercontent.com/116655812/200724486-37638123-5093-46e5-83d9-cb6fd8b6fd25.png)
+
+
+
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72
+
+![image](https://user-images.githubusercontent.com/116655812/200705921-bb631254-8954-4efc-b4a8-09e3a72c29bb.png)
+
+Calculando primero la intensidad total del circuito serie y aplicando ley de ohm en R2
+
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/116655812/200706106-f41c634f-8a75-4021-93b6-24f36522eb2c.png)
+
+
+El amperimetro se debe colacar en serie a la fuente de voltaje para obtenr el valor de corriente del mismo 
+
+
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
+
+![image](https://user-images.githubusercontent.com/116655812/200706253-c0dfe550-c75d-4a56-99f6-eff74e6cb6fe.png)
+
+Se debe colocar paralelo a la resistencia de la cual queremos saber su valor 
+
+
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+Esta midiendo una resistencia de 10 ohms
+
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+
+
+
+  
+  
   
   
   
