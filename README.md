@@ -263,7 +263,8 @@ Esta midiendo una resistencia de 10 ohms
 
 
 
-4. CONCLUSIONES 
+
+# CONCLUSIONES 
 
 
   
