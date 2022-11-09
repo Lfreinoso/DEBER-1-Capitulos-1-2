@@ -201,6 +201,7 @@ Se basan en el principio de Inducción Electromagnética
 ![image](https://user-images.githubusercontent.com/116655812/200705423-edfbe064-fab7-417e-b0cf-6497db6c143f.png)
 
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
 La resistencia entre cada terminal es de 50 [Ω]
 
 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
@@ -259,6 +260,10 @@ Esta midiendo una resistencia de 10 ohms
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
 
+
+
+
+4. CONCLUSIONES 
 
 
   
