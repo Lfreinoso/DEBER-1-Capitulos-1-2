@@ -25,7 +25,7 @@ Resumen Capitulo 1
 
 ![image](https://user-images.githubusercontent.com/116655812/200655744-988587c2-8cda-45c4-af63-005a9fa0b518.png)
 
-Resumen capítulo 2
+Resumen Capítulo 2
 
 ![image](https://user-images.githubusercontent.com/116655812/200655832-2e93e003-b5a3-4796-a72c-df742e5f0fa0.png)
 
@@ -278,6 +278,12 @@ https://youtu.be/P9JFybbp05g
 
 - Para medir un con un voltimetro debemos tener en cuenta que debe estar conectado en paralelo, en cambio si queremos medir con un amperimetro lo debemos colocar en serie.
 
+# 6.BIBLIOGRAFÍA
+
+Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
+Glosario: Corriente eléctrica. (s. f.). https://www.greenfacts.org/es/glosario/abc/corriente.htm
+Pérez, M. (2021, 27 septiembre). Voltaje. Concepto de - Definición de. https://conceptodefinicion.de/voltaje/
+¿Qué es la resistencia? (2021, 9 mayo). Fluke. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-resistencia
 
 
   
