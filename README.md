@@ -10,7 +10,8 @@ Nombre: Luis F. Reinoso L.
 NRC: 10067
 
 
-1. OBJETIVO GENERAL
+# 1. OBJETIVOS
+ OBJETIVO GENERAL
 -  Realizar la investigación pertinente sobre los capítulos 1 y 2 en el libro de Floyd para complementar los conocimientos adquiridos con los impartidos previamente en clase y así tener una mejor base sobre las medias y conceptos que se utilizaran a lo largo del curso.
 
  OBJETIVOS ESPECÍFICOS
@@ -18,7 +19,7 @@ NRC: 10067
 - Fortalecer los conceptos de resistencia, corriente y voltaje para tener mayor comprensión sobre el tema.
 -	Entender como funcionan los electrones en los átomos además de aprender como calcular la carga, voltaje, intensidad y resistencia con sus respectivas fórmulas.
 
-2. MARCO TEÓRICO 
+# 2. MARCO TEÓRICO 
 
 Resumen Capitulo 1
 
@@ -33,7 +34,7 @@ Resumen capítulo 2
 ![image](https://user-images.githubusercontent.com/116655812/200655895-6a9bfcdc-6012-49b5-8c88-e9842bf883d0.png)
 
 
-3. EXPLICACIÓN Y RESOLUCION DE PROBLEMAS 
+# 3. EXPLICACIÓN Y RESOLUCION DE PROBLEMAS 
 
 - CAPITULO 1 (EJERCICIOS PARES)
 
@@ -260,12 +261,23 @@ Esta midiendo una resistencia de 10 ohms
 
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
+Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
+
+# 4. VIDEO 
+
+https://youtu.be/P9JFybbp05g
 
 
+# 5. CONCLUSIONES 
 
+- Las unidades de medida son importantes a la hora de trabajar con cantidades muy grandes o muy pequeñas ya sea con la notacion cientifica, de ingenieria o metrica, nos ayudaran a manipular y operar mejor estas cantidades
 
+- Debemos recordar siempre las unidades fundamentales y sus derivadas a la hora de utilizarlas y nunca olvidarnos poner al final del resultado la unodad obtenida, ya sean ohms, volts, amperes u otras unidades 
 
-# CONCLUSIONES 
+- El voltaje esta relacionado con la energia medida en joules y la carga en coulumbs ademas la intensidad esta relacionada con la carga en coulumbs y el tiempo, estas relaciones nos ayudaran a resolver los ejercicos que dependan del tiempo de la carga electrica 
+
+- Para medir un con un voltimetro debemos tener en cuenta que debe estar conectado en paralelo, en cambio si queremos medir con un amperimetro lo debemos colocar en serie.
+
 
 
   
