@@ -41,6 +41,8 @@ Resumen Capítulo 2
   2. Exprese cada número fraccionario en notación científica: 
 
 ![image](https://user-images.githubusercontent.com/116655812/200657721-0daf546a-64db-4d1f-a613-771d6203df27.png)
+
+Para este ejercicio se determino que el numero diez con su exponente se encontraba en el denominador y por propiedades matemáticas al subir el numero diez el signo del exponente cambio 
   
   
   
@@ -48,6 +50,8 @@ Resumen Capítulo 2
   4. Exprese cada uno de los números siguientes en notación científica:
   
   ![image](https://user-images.githubusercontent.com/116655812/200657811-b4598cac-82c7-4aad-9dab-03526acf97b6.png)
+  
+  Para este ejercicio se tomo en cuenta el numero, se recorrio el punto y se expreso con un diez elevado a una potencia menor que 16
 
 
 
@@ -55,7 +59,7 @@ Resumen Capítulo 2
   6. Exprese cada uno de los números siguientes como un número decimal regular:
   
   ![image](https://user-images.githubusercontent.com/116655812/200657920-c29f173a-c6ca-4b12-b543-d4422a936643.png)
-
+  
 
 
 
@@ -70,12 +74,15 @@ Resumen Capítulo 2
   
   ![image](https://user-images.githubusercontent.com/116655812/200658114-a11cfb2f-87fb-48b6-b6b2-6d6b7e55dbab.png)
 
+Por propiedades matemáticas podemos operar los exponentes del diez al sacar factor común y operar los números que los acompañan de forma normal 
 
 
 
   12. Realice las siguientes divisiones: 
   
   ![image](https://user-images.githubusercontent.com/116655812/200658221-d99822f3-9a15-4364-b677-cfb955865c61.png)
+  
+  Por propiedades matemáticas podemos operar los exponentes del diez al sacar factor común y operar los números que los acompañan de forma normal 
   
   
   
@@ -84,13 +91,15 @@ Resumen Capítulo 2
   
   ![image](https://user-images.githubusercontent.com/116655812/200658324-ca685632-26f8-49f8-b894-8bb521cb2642.png)
 
-
+Aplicamos lo mismo que en notación científica, pero teniendo en cuenta las dos propiedades que caracterizan a la notación de ingeniería 
 
 
   16. Exprese cada número en notación de ingeniería:
   
   ![image](https://user-images.githubusercontent.com/116655812/200658405-5682c291-576d-4414-a06e-1854df16b499.png)
-
+  
+  
+Aplicamos lo mismo que en notación científica, pero teniendo en cuenta las dos propiedades que caracterizan a la notación de ingeniería 
 
 
 
@@ -99,34 +108,35 @@ Resumen Capítulo 2
   ![image](https://user-images.githubusercontent.com/116655812/200658512-5dd66d7f-9cf7-4a75-949d-b43d8779aefa.png)
 
 
+Aplicamos propiedades matemáticas para los exponentes sacando factor común y mullicamos los números que los acompañan, pero teniendo en cuenta las dos propiedades que caracterizan a la notación de ingeniería 
 
 
   20.  Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
   
   ![image](https://user-images.githubusercontent.com/116655812/200658619-41f282f8-1ae0-4d0e-9771-2f424072b26e.png)
 
-
+Aplicamos lo que nos dice la notación de prefijo métrico, y lo acompañamos con la simbología de ohm 
 
 
   22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
   
   ![image](https://user-images.githubusercontent.com/116655812/200658698-6f136005-e3c3-4417-8a69-7393bb56d28f.png)
 
-
+Aplicamos lo que nos dice la notación de prefijo métrico, y lo acompañamos con la simbología que le corresponda 
 
 
   24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
   
   ![image](https://user-images.githubusercontent.com/116655812/200658798-3439181f-a609-4ddb-9e7b-791307cdba72.png)
 
-
+Aplicamos lo que nos dice la notación de prefijo métrico, y lo acompañamos con la simbología que le corresponda 
 
 
   26. Exprese cada cantidad en notación de ingeniería:
   
   ![image](https://user-images.githubusercontent.com/116655812/200658868-3213b88f-ffda-4165-a5a6-4cedeb59fc9f.png)
 
-
+Simplemente transformamos los prefijos métricos en diez elevado a su respectiva potencia y tenemos en cuenta las propiedades de notación de ingeniería 
 
 
   28. Determine lo siguiente:
@@ -142,7 +152,7 @@ Resumen Capítulo 2
   
   ![image](https://user-images.githubusercontent.com/116655812/200659099-68f6c125-44e3-47ae-8e17-013463ecbffe.png)
 
-
+Igualamos los prefijos métricos para dejar en una sola unidad y multiplicamos 
 
 
 
@@ -153,33 +163,49 @@ Resumen Capítulo 2
 
 ![image](https://user-images.githubusercontent.com/116655812/200698687-2c4b5c0b-9abc-41d7-a812-512162a949fb.png)
 
+Consultamos el número de electrones que tiene el cloro y aplicamos la formula 
+
 4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
 ![image](https://user-images.githubusercontent.com/116655812/200698883-1da92d9c-19ea-45a2-8c7b-268cc05891be.png)
+
+Hacemos regla de tres entre la esquivalencia de un coulumb y los 80 microcolumbs
 
 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
 ![image](https://user-images.githubusercontent.com/116655812/200698958-db1bf827-d103-42d4-a6ec-c966bc5a72b6.png)
 
+Aplicamos la formula de voltaje 
+
 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2?5 C por un circuito?
 
 ![image](https://user-images.githubusercontent.com/116655812/200699012-6204f1d8-b84e-4f75-9fa1-554cccbe6940.png)
+
+Aplicamos la formula de voltaje 
 
 10. Determine la corriente en cada uno de los siguientes casos:
 
 ![image](https://user-images.githubusercontent.com/116655812/200699490-906273f7-a821-4b83-b726-6ffbd15da570.png)
 
+Aplicamos la formula de la intensidad propuesta en el libro 
+
 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
 ![image](https://user-images.githubusercontent.com/116655812/200704013-02769297-c6f8-42c3-b920-ce4ff177a6d6.png)
+
+Aplicamos la formula de la intensidad propuesta en el libro 
 
 14. 5.74  1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
 ![image](https://user-images.githubusercontent.com/116655812/200704148-57fe0d9c-6757-4298-b15d-e9a234a1f2e2.png)
 
+Primero encintamos la carga en columbs para posteriormente aplicar la formula de intensidad que relaciona carga y tiempo
+
 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 
 ![image](https://user-images.githubusercontent.com/116655812/200704350-01a04b0f-cdca-45b7-a295-b839dd577b27.png)
+
+Aplicamos la formula de conductancia 
 
 18. ¿En qué principio se basan los generadores eléctricos?
 
@@ -189,9 +215,13 @@ Se basan en el principio de Inducción Electromagnética
 
 ![image](https://user-images.githubusercontent.com/116655812/200704495-812f22f5-6139-4557-b436-4f7638264315.png)
 
+Aplicamos ley de ohm entre la corriente y resistencia inicial para después volver a aplicar ley de ohm pero con la resistencia disminuida y el voltaje inicial 
+
 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
 ![image](https://user-images.githubusercontent.com/116655812/200704821-86c6377f-37ec-495c-a683-d9e743cd22a0.png)
+
+Al analizar los colores debemos ver su porcentaje de error, multiplicar por el valor de la resistencia y por ultimo sumar y restar el porcentaje al valor inicial para encontrar el valor máximo y mínimo de resistencia 
 
 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
